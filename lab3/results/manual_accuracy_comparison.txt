@@ -1,0 +1,3 @@
+RNN Accuracy: 0.0820
+Manual LSTM Accuracy: 0.6380
+Manual GRU Accuracy: 0.6210
